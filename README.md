@@ -36,11 +36,11 @@ Descripción y detalles del dashboard de segmentación de clientes se agregarán
 
 ## Netflix Titles - Dashboard
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/b84268d5-4ff9-4def-b99d-ef77c1ffdeb2" alt="Netflix Titles Dashboard 1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/e2fa096a-e222-4977-b3f1-21dc4a52cdf9" alt="Netflix Titles Dashboard 2" width="300"/>
-  <img src="https://github.com/user-attachments/assets/eb4c6122-0674-44a4-abda-c7fb792849e2" alt="Netflix Titles Dashboard 3" width="300"/>
-  <img src="https://github.com/user-attachments/assets/d7ab12ae-d5b0-4228-94e2-70ebd4f591aa" alt="Netflix Titles Dashboard 4" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/b84268d5-4ff9-4def-b99d-ef77c1ffdeb2" alt="Netflix Titles Dashboard 1" width="300" style="flex: 1; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/e2fa096a-e222-4977-b3f1-21dc4a52cdf9" alt="Netflix Titles Dashboard 2" width="300" style="flex: 1; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/eb4c6122-0674-44a4-abda-c7fb792849e2" alt="Netflix Titles Dashboard 3" width="300" style="flex: 1; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/d7ab12ae-d5b0-4228-94e2-70ebd4f591aa" alt="Netflix Titles Dashboard 4" width="300" style="flex: 1;"/>
 </div>
 
 **Descripción:**
