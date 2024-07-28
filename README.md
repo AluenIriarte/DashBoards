@@ -4,34 +4,28 @@
 
 ## Tabla de Contenidos
 
-1. [Predicción de Vencimiento de Facturas - Dashboard](#predicción-de-vencimiento-de-facturas---dashboard)
-2. [Segmentación de Clientes - Dashboard](#segmentación-de-clientes---dashboard)
-3. [Netflix Titles - Dashboard](#netflix-titles---dashboard)
-4. [Presupuesto Personal - Dashboard](#presupuesto-personal---dashboard)
-5. [Netzuk - Dashboard](#netzuk---dashboard)
+1. [Predicción de Vencimiento de Facturas - Modelo de Machine Learning](#predicción-de-vencimiento-de-facturas---modelo-de-machine-learning)
+2. [Netflix Titles - Dashboard](#netflix-titles---dashboard)
+3. [Presupuesto Personal - Dashboard](#presupuesto-personal---dashboard)
+4. [Netzuk - Dashboard](#netzuk---dashboard)
 
 ---
 
 ## Predicción de Vencimiento de Facturas - Modelo de Machine Learning.
-Este proyecto se centra en la predicción de vencimientos de facturas... 
+Este proyecto se enfoca en la predicción de vencimientos de facturas. El objetivo es predecir con precisión cuándo una factura está en riesgo de vencimiento, permitiendo una mejor planificación financiera y gestión de cobros.
 
-| Algoritmo                  | MSE Scores          | R2 Score |
-|----------------------------|---------------------|----------|
-| LinearRegression           | 3.195110e+11        | 0.324119 |
-| Support Vector Regression  | 4.767176e+11        | -0.008430|
-| Decision Tree Regression   | 1.970601e+11        | 0.583147 |
-| Random Forest Regression   | 1.214346e+11        | 0.743122 |
-| XGB Regressor              | 1.472704e+11        | 0.688470 |
+Este modelo fue un modelo piloto con un data set similar al caso de uso que aplicamos posteriormente. Este primer modelo clasificó correctamente el 85% de las facturas. En el otro caso de uso que avance luego en mi trabajo con la colaboración de cientificos de datos, terminamos de perfeccionar el modelo.
 
-Actualmente estoy trabajando en la visualización de datos para este proyecto, que incluirá un dashboard interactivo para presentar de manera efectiva los resultados y predicciones.
+## Estrategia de Segmentación
+Con base en los resultados, se pueden aplicar las siguientes estrategias:
 
----
-
-## Segmentación de Clientes - Dashboard
-
-Descripción y detalles del dashboard de segmentación de clientes se agregarán próximamente. Este proyecto aborda el análisis de datos para categorizar y entender mejor a los clientes, utilizando técnicas de segmentación avanzadas.
+Segmentación por Riesgo: Clasificar las facturas en categorías de riesgo (bajo, medio, alto) para priorizar la gestión.
+Perfilado de Clientes: Identificar características comunes en clientes con alto riesgo para ajustar estrategias de cobro.
+Optimización de Cobranza: Implementar tácticas personalizadas según el riesgo de vencimiento, mejorando la eficiencia en la recuperación de pagos.
+Actualmente, estoy trabajando en un dashboard operativo que permtia aplicar estas estrategias con una actualización diaria de las facturas/Clientes.
 
 ---
+
 
 ## Netflix Titles - Dashboard
 
