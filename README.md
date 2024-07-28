@@ -12,18 +12,28 @@
 ---
 
 ## Predicción de Vencimiento de Facturas - Machine Learning.
-Este proyecto se enfoca en la predicción de vencimientos de facturas. El objetivo es predecir con precisión cuándo una factura está en riesgo de vencimiento, permitiendo una mejor planificación financiera y gestión de cobros.
+Este proyecto se centra en predecir el vencimiento de facturas para optimizar la gestión de cobros.
 
-Este es el modelo inicial, desarrollado como piloto, utilizó un conjunto de datos similar al caso de uso real por lo que puedo compartirlo. Este modelo logró clasificar con mucha precisión las facturas. Posteriormente, en colaboración con científicos de datos, perfeccionamos el modelo para mejorar aún más su precisión y aplicabilidad en escenarios reales.
+### Etapas del Proyecto
 
-### Resultado de los distintos modelos.
-| Algoritmo                  | MSE Scores          | R2 Score |
-|----------------------------|---------------------|----------|
-| Linear Regression          | 3.195110e+11        | 0.324119 |
-| Support Vector Regression   | 4.767176e+11        | -0.008430|
-| Decision Tree Regression    | 1.970601e+11        | 0.583147 |
-| Random Forest Regression    | 1.214346e+11        | 0.743122 |
-| XGB Regressor               | 1.472704e+11        | 0.688470 |
+1. **Origen de Datos:** Datos históricos de facturación.
+2. **Limpieza:** Eliminación de nulos y normalización.
+3. **Análisis:** Exploración de patrones en los datos.
+4. **Entrenamiento:** Modelos evaluados: Regresión Lineal, SVR, Árboles de Decisión, Random Forest, XGB.
+
+### Resultados de Modelos
+
+| Algoritmo                  | MSE Scores          | R² Score (%) |
+|----------------------------|---------------------|--------------|
+| LinearRegression           | 3.195110e+11        | 32.41%       |
+| Support Vector Regression  | 4.767176e+11        | -0.84%       |
+| Decision Tree Regression   | 1.970601e+11        | 58.31%       |
+| Random Forest Regression   | 1.214346e+11        | 74.31%       |
+| XGB Regressor              | 1.472704e+11        | 68.85%       |
+
+El modelo Random Forest mostró el mejor rendimiento.
+
+Este es el modelo inicial, desarrollado como piloto, que utilizó un conjunto de datos similar al caso de uso real, por lo que puedo compartirlo. Este modelo logró clasificar con mucha precisión las facturas. Posteriormente, en colaboración con científicos de datos, perfeccionamos el modelo para mejorar aún más su precisión y aplicabilidad en escenarios reales. Podrán ver la totalidad del proyecto en los archivos de este repertorio.
 
 ## Estrategia de Segmentación
 Con base en los resultados, se pueden aplicar las siguientes estrategias:
