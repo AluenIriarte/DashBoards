@@ -36,12 +36,11 @@ Descripción y detalles del dashboard de segmentación de clientes se agregarán
 
 ## Netflix Titles - Dashboard
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/b84268d5-4ff9-4def-b99d-ef77c1ffdeb2" alt="Netflix Titles Dashboard 1" width="450"/>
-  <img src="https://github.com/user-attachments/assets/e2fa096a-e222-4977-b3f1-21dc4a52cdf9" alt="Netflix Titles Dashboard 2" width="450"/>
-  <img src="https://github.com/user-attachments/assets/eb4c6122-0674-44a4-abda-c7fb792849e2" alt="Netflix Titles Dashboard 3" width="450"/>
-  <img src="https://github.com/user-attachments/assets/d7ab12ae-d5b0-4228-94e2-70ebd4f591aa" alt="Netflix Titles Dashboard 4" width="450"/>
-</div>
+![netflixtitlev06-page-001](https://github.com/user-attachments/assets/4d037cb5-eea3-43e3-8d72-a5e714e71a4d)
+![netflixtitlev06-page-002](https://github.com/user-attachments/assets/26edfaed-a5ca-4ae4-a2c0-04c12d5786b4)
+![netflixtitlev06-page-003](https://github.com/user-attachments/assets/20bd6be0-4695-4f47-a722-c1ceafe34b0b)
+![netflixtitlev06-page-004](https://github.com/user-attachments/assets/091c174a-54bc-47b6-a730-f968084ef058)
+
 
 **Descripción:**
 El dashboard de Netflix Titles proporciona una exploración detallada del dataset, destacando información relevante a través de gráficos diversos como mapas y WordClouds. Es una herramienta útil para entender patrones y tendencias en los datos de películas y series.
