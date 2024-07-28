@@ -16,10 +16,14 @@ Este proyecto se centra en predecir el vencimiento de facturas para optimizar la
 
 ### Etapas del Proyecto
 
-1. **Origen de Datos:** Datos históricos de facturación.
-2. **Limpieza:** Eliminación de nulos y normalización.
-3. **Análisis:** Exploración de patrones en los datos.
-4. **Entrenamiento:** Modelos evaluados: Regresión Lineal, SVR, Árboles de Decisión, Random Forest, XGB.
+1. **Origen de Datos:** Utilizamos datos históricos de facturación, que incluyen fechas de vencimiento y fechas de pago (clear date) para cada factura.
+
+2. **Limpieza:** Se eliminaron valores nulos y se normalizaron las fechas, convirtiéndolas en formato día, mes y año. Además, se realizó la conversión numérica de las columnas categóricas para su adecuada integración en el modelo.
+
+3. **Análisis:** Identificamos los valores que tenían mayor impacto en la variable dependiente, evaluando la influencia de diferentes características en los vencimientos de las facturas.
+
+4. **Entrenamiento:** Evaluamos varios modelos, incluyendo Regresión Lineal, Support Vector Regression (SVR), Árboles de Decisión, Random Forest y XGB Regressor, para encontrar el mejor ajuste para la predicción de vencimientos.
+
 
 ### Resultados de Modelos
 
