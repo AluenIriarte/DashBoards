@@ -37,7 +37,7 @@ Este proyecto se centra en predecir el vencimiento de facturas para optimizar la
 
 El modelo Random Forest mostró el mejor rendimiento.
 
-Este es el modelo inicial, desarrollado como piloto, que utilizó un conjunto de datos similar al caso de uso real, por lo que puedo compartirlo. Este modelo logró clasificar con mucha precisión las facturas. Posteriormente, en colaboración con científicos de datos, perfeccionamos el modelo para mejorar aún más su precisión y aplicabilidad en escenarios reales. Podrán ver la totalidad del proyecto en los archivos de este repertorio.
+Este es el modelo inicial, desarrollado como piloto, que utilizó un conjunto de datos similar al caso de uso real, por lo que puedo compartirlo. Este modelo logró clasificar con mucha precisión las facturas. Posteriormente, en colaboración con científicos de datos, perfeccionamos el modelo para mejorar aún más su precisión y aplicabilidad en escenarios reales. Podrán ver la totalidad del proyecto piloto en los archivos de este repertorio.
 
 ## Estrategia de Segmentación
 Con base en los resultados, se pueden aplicar las siguientes estrategias:
