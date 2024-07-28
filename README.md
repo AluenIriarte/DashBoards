@@ -58,7 +58,7 @@ Este dashboard de Presupuesto Personal es una plantilla de Excel diseñada para 
 
 ---
 
-## Netzuk - Dashboard
+## Diznetzuk - Dashboard
 
 <table>
   <tr>
