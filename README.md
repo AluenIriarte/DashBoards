@@ -54,8 +54,11 @@ El dashboard de Netflix Titles proporciona una exploración detallada del datase
 
 ## Presupuesto Personal - Dashboard
 
-![budget](https://github.com/user-attachments/assets/aaac25a6-4a4b-4bba-8963-d9d6a237be68)
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/aaac25a6-4a4b-4bba-8963-d9d6a237be68" alt="Presupuesto Personal Dashboard" width="350"/></td>
+  </tr>
+</table>
 
 **Descripción:**
 Este dashboard de Presupuesto Personal es una plantilla de Excel diseñada para el seguimiento y gestión de gastos personales. Ofrece una visión clara de las finanzas personales y ayuda en la planificación del presupuesto.
@@ -64,7 +67,11 @@ Este dashboard de Presupuesto Personal es una plantilla de Excel diseñada para 
 
 ## Netzuk - Dashboard
 
-![Netzuk Dashboard](https://github.com/user-attachments/assets/36933584-7ea5-4108-9a2d-c42b063cdfb9)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/36933584-7ea5-4108-9a2d-c42b063cdfb9" alt="Netzuk Dashboard" width="350"/></td>
+  </tr>
+</table>
 
 **Descripción:**
 El dashboard Netzuk incluye una visión integral de los ingresos, gastos, márgenes y beneficios. Fue creado como un proyecto de curso para demostrar habilidades en la creación de dashboards funcionales. Aplica filtros simples y funciona como una versión piloto para desarrollos futuros.
