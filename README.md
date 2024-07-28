@@ -14,7 +14,7 @@
 ## Predicción de Vencimiento de Facturas - Machine Learning.
 Este proyecto se enfoca en la predicción de vencimientos de facturas. El objetivo es predecir con precisión cuándo una factura está en riesgo de vencimiento, permitiendo una mejor planificación financiera y gestión de cobros.
 
-Este es el modelo inicial, desarrollado como piloto, utilizó un conjunto de datos similar al caso de uso real por lo que puedo compartirlo. Este modelo logró clasificar con mucha precisiónlas facturas. Posteriormente, en colaboración con científicos de datos, perfeccionamos el modelo para mejorar aún más su precisión y aplicabilidad en escenarios reales.
+Este es el modelo inicial, desarrollado como piloto, utilizó un conjunto de datos similar al caso de uso real por lo que puedo compartirlo. Este modelo logró clasificar con mucha precisión las facturas. Posteriormente, en colaboración con científicos de datos, perfeccionamos el modelo para mejorar aún más su precisión y aplicabilidad en escenarios reales.
 
 ### Resultado de los distintos modelos.
 | Algoritmo                  | MSE Scores          | R2 Score |
