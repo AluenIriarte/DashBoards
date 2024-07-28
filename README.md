@@ -12,9 +12,8 @@
 
 ---
 
-## Predicción de Vencimiento de Facturas - Dashboard
-
-Este proyecto se centra en la predicción de vencimientos de facturas utilizando distintos algoritmos de Machine Learning. He implementado y probado varios modelos, destacando el rendimiento del Random Forest Regression. A continuación se presentan los resultados obtenidos:
+## Predicción de Vencimiento de Facturas - Modelo de Machine Learning.
+Este proyecto se centra en la predicción de vencimientos de facturas... 
 
 | Algoritmo                  | MSE Scores          | R2 Score |
 |----------------------------|---------------------|----------|
