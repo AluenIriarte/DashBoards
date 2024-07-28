@@ -37,20 +37,19 @@ Descripción y detalles del dashboard de segmentación de clientes se agregarán
 ## Netflix Titles - Dashboard
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1 1 calc(50% - 10px); max-width: calc(50% - 10px);">
+  <div style="flex: 1 1 45%; max-width: 45%;">
     <img src="https://github.com/user-attachments/assets/4d037cb5-eea3-43e3-8d72-a5e714e71a4d" alt="Netflix Titles Dashboard 1" width="100%" />
   </div>
-  <div style="flex: 1 1 calc(50% - 10px); max-width: calc(50% - 10px);">
+  <div style="flex: 1 1 45%; max-width: 45%;">
     <img src="https://github.com/user-attachments/assets/26edfaed-a5ca-4ae4-a2c0-04c12d5786b4" alt="Netflix Titles Dashboard 2" width="100%" />
   </div>
-  <div style="flex: 1 1 calc(50% - 10px); max-width: calc(50% - 10px);">
+  <div style="flex: 1 1 45%; max-width: 45%;">
     <img src="https://github.com/user-attachments/assets/20bd6be0-4695-4f47-a722-c1ceafe34b0b" alt="Netflix Titles Dashboard 3" width="100%" />
   </div>
-  <div style="flex: 1 1 calc(50% - 10px); max-width: calc(50% - 10px);">
+  <div style="flex: 1 1 45%; max-width: 45%;">
     <img src="https://github.com/user-attachments/assets/091c174a-54bc-47b6-a730-f968084ef058" alt="Netflix Titles Dashboard 4" width="100%" />
   </div>
 </div>
-
 
 **Descripción:**
 El dashboard de Netflix Titles proporciona una exploración detallada del dataset, destacando información relevante a través de gráficos diversos como mapas y WordClouds. Es una herramienta útil para entender patrones y tendencias en los datos de películas y series.
