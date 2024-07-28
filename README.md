@@ -1,6 +1,6 @@
 # Repositorio de Proyectos - Alan L. Pérez
 
-¡Bienvenidos a mi repositorio! Aquí encontrarás una colección de proyectos y dashboards que he desarrollado a lo largo de mi carrera. Aunque mi trabajo real es confidencial, he incluido una serie de proyectos representativos para demostrar mis habilidades en análisis de datos y visualización.
+¡Bienvenidos a mi repositorio! Aquí encontrarás una selección de proyectos y dashboards que he desarrollado a lo largo de mi carrera. Aunque mi trabajo profesional es confidencial, he incluido una serie de proyectos representativos que realicé como pilotos, plantillas y durante diversos cursos. Estos proyectos ilustran mis habilidades en análisis y procesamiento de datos, automatización, modelos de Machine Learning, así como en la creación de tableros y visualización de datos.
 
 ## Tabla de Contenidos
 
