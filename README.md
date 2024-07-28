@@ -58,7 +58,7 @@ Este dashboard de Presupuesto Personal es una plantilla de Excel diseñada para 
 
 ---
 
-## Diznetzuk - Dashboard
+## Dizteku - Dashboard
 
 <table>
   <tr>
@@ -67,6 +67,6 @@ Este dashboard de Presupuesto Personal es una plantilla de Excel diseñada para 
 </table>
 
 **Descripción:**
-El dashboard Netzuk incluye una visión integral de los ingresos, gastos, márgenes y beneficios. Fue creado como un proyecto de curso para demostrar habilidades en la creación de dashboards funcionales. Aplica filtros simples y funciona como una versión piloto para desarrollos futuros.
+El dashboard Dizteku incluye una visión integral de los ingresos, gastos, márgenes y beneficios. Fue creado como un proyecto de curso para demostrar habilidades en la creación de dashboards funcionales. Aplica filtros simples y funciona como una versión piloto para desarrollos futuros.
 
 ---
