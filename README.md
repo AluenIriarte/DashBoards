@@ -50,9 +50,7 @@ El dashboard de Netflix Titles proporciona una exploración detallada del datase
 
 ## Presupuesto Personal - Dashboard
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="![Presupuesto Personal Dashboard](https://github.com/user-attachments/assets/837a0061-c30f-4da0-9561-b088b1919bb9)" width="450"/>
-</div>
+![Presupuesto Personal Dashboard](https://github.com/user-attachments/assets/837a0061-c30f-4da0-9561-b088b1919bb9)
 
 
 **Descripción:**
