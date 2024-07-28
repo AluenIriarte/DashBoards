@@ -86,7 +86,7 @@ Este dashboard de Presupuesto Personal es una plantilla de Excel diseñada para 
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/36933584-7ea5-4108-9a2d-c42b063cdfb9" alt="Netzuk Dashboard" width="550"/></td>
+    <td><img src="https://github.com/user-attachments/assets/36933584-7ea5-4108-9a2d-c42b063cdfb9" alt="Netzuk Dashboard" width="1550"/></td>
   </tr>
 </table>
 
