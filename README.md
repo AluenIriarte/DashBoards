@@ -24,14 +24,14 @@ Perfilado de Clientes: Identificar características comunes en clientes con alto
 Optimización de Cobranza: Implementar tácticas personalizadas según el riesgo de vencimiento, mejorando la eficiencia en la recuperación de pagos.
 Actualmente, estoy trabajando en un dashboard operativo que permtia aplicar estas estrategias con una actualización diaria de las facturas/Clientes.
 
-### Resultados
-| Algoritmo                  | MSE Scores          | R2 Score | Precisión (%) |
-|----------------------------|---------------------|----------|---------------|
-| Linear Regression          | 3.195110e+11        | 0.324119 | 55%           |
-| Support Vector Regression   | 4.767176e+11        | -0.008430| 40%           |
-| Decision Tree Regression    | 1.970601e+11        | 0.583147 | 70%           |
-| Random Forest Regression    | 1.214346e+11        | 0.743122 | 85%           |
-| XGB Regressor               | 1.472704e+11        | 0.688470 | 75%           |
+### Resultado de los distintos modelos.
+| Algoritmo                  | MSE Scores          | R2 Score |
+|----------------------------|---------------------|----------|
+| Linear Regression          | 3.195110e+11        | 0.324119 |
+| Support Vector Regression   | 4.767176e+11        | -0.008430|
+| Decision Tree Regression    | 1.970601e+11        | 0.583147 |
+| Random Forest Regression    | 1.214346e+11        | 0.743122 |
+| XGB Regressor               | 1.472704e+11        | 0.688470 |
 ---
 
 
