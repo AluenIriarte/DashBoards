@@ -16,14 +16,6 @@ Este proyecto se enfoca en la predicción de vencimientos de facturas. El objeti
 
 Este es el modelo inicial, desarrollado como piloto, utilizó un conjunto de datos similar al caso de uso real por lo que puedo compartirlo. Este modelo logró clasificar con mucha precisiónlas facturas. Posteriormente, en colaboración con científicos de datos, perfeccionamos el modelo para mejorar aún más su precisión y aplicabilidad en escenarios reales.
 
-## Estrategia de Segmentación
-Con base en los resultados, se pueden aplicar las siguientes estrategias:
-
-Segmentación por Riesgo: Clasificar las facturas en categorías de riesgo (bajo, medio, alto) para priorizar la gestión.
-Perfilado de Clientes: Identificar características comunes en clientes con alto riesgo para ajustar estrategias de cobro.
-Optimización de Cobranza: Implementar tácticas personalizadas según el riesgo de vencimiento, mejorando la eficiencia en la recuperación de pagos.
-Actualmente, estoy trabajando en un dashboard operativo que permtia aplicar estas estrategias con una actualización diaria de las facturas/Clientes.
-
 ### Resultado de los distintos modelos.
 | Algoritmo                  | MSE Scores          | R2 Score |
 |----------------------------|---------------------|----------|
@@ -32,6 +24,16 @@ Actualmente, estoy trabajando en un dashboard operativo que permtia aplicar esta
 | Decision Tree Regression    | 1.970601e+11        | 0.583147 |
 | Random Forest Regression    | 1.214346e+11        | 0.743122 |
 | XGB Regressor               | 1.472704e+11        | 0.688470 |
+
+## Estrategia de Segmentación
+Con base en los resultados, se pueden aplicar las siguientes estrategias:
+
+Segmentación por Riesgo: Clasificar las facturas en categorías de riesgo (bajo, medio, alto) para priorizar la gestión.
+Perfilado de Clientes: Identificar características comunes en clientes con alto riesgo para ajustar estrategias de cobro.
+Optimización de Cobranza: Implementar tácticas personalizadas según el riesgo de vencimiento, mejorando la eficiencia en la recuperación de pagos.
+Actualmente, estoy trabajando en un dashboard operativo que permtia aplicar estas estrategias con una actualización diaria de las facturas/Clientes.
+
+
 ---
 
 
