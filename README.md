@@ -5,9 +5,10 @@
 ## Tabla de Contenidos
 
 1. [Predicción de Vencimiento de Facturas - Modelo de Machine Learning](#predicción-de-vencimiento-de-facturas---modelo-de-machine-learning)
-2. [Netflix Titles - Dashboard](#netflix-titles---dashboard)
-3. [Presupuesto Personal - Dashboard](#presupuesto-personal---dashboard)
-4. [Netzuk - Dashboard](#netzuk---dashboard)
+2. [Segmentación de Clientes - Dashboard](#Estrategia-de-Segmentación---dashboard)
+3. [Netflix Titles - Dashboard](#netflix-titles---dashboard)
+4. [Presupuesto Personal - Dashboard](#presupuesto-personal---dashboard)
+5. [Dizteku - Dashboard](#netzuk---dashboard)
 
 ---
 
@@ -66,10 +67,10 @@ Actualmente, estoy trabajando en un dashboard operativo que permtia aplicar esta
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/20bd6be0-4695-4f47-a722-c1ceafe34b0b" alt="Netflix Titles Dashboard 3" width="775"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4d037cb5-eea3-43e3-8d72-a5e714e71a4d" alt="Netflix Titles Dashboard 1" width="775"/></td>
+    <td><img src="https://github.com/user-attachments/assets/26edfaed-a5ca-4ae4-a2c0-04c12d5786b4" alt="Netflix Titles Dashboard 2" width="775"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/26edfaed-a5ca-4ae4-a2c0-04c12d5786b4" alt="Netflix Titles Dashboard 2" width="775"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4d037cb5-eea3-43e3-8d72-a5e714e71a4d" alt="Netflix Titles Dashboard 1" width="775"/></td>
     <td><img src="https://github.com/user-attachments/assets/091c174a-54bc-47b6-a730-f968084ef058" alt="Netflix Titles Dashboard 4" width="775"/></td>
   </tr>
 </table>
