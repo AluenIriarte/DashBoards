@@ -73,7 +73,7 @@ El dashboard de Netflix Titles proporciona una exploración detallada del datase
 
 <table>
   <tr>
-<td><img src="https://github.com/user-attachments/assets/5e41fe42-880c-44df-ac9b-daa093a67e1a" alt="Custom_seg" width="775"/></td>
+<td><img src="https://github.com/user-attachments/assets/5e41fe42-880c-44df-ac9b-daa093a67e1a" alt="Custom_seg" width="1550"/></td>
   </tr>
 </table>
 
