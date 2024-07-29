@@ -48,19 +48,7 @@ Perfilado de Clientes: Identificar características comunes en clientes con alto
 Optimización de Cobranza: Implementar tácticas personalizadas según el riesgo de vencimiento, mejorando la eficiencia en la recuperación de pagos.
 Actualmente, estoy trabajando en un dashboard operativo que permtia aplicar estas estrategias con una actualización diaria de las facturas/Clientes.
 
-
 ---
-
-## Segmentación de Clientes - Dashboard
-
-
-<table>
-  <tr>
-<td><img src="https://github.com/user-attachments/assets/5e41fe42-880c-44df-ac9b-daa093a67e1a" alt="Custom_seg" width="775"/></td>
-  </tr>
-</table>
-
-**Descripción:**
 
 ## Netflix Titles - Dashboard
 
@@ -80,6 +68,16 @@ El dashboard de Netflix Titles proporciona una exploración detallada del datase
 
 ---
 
+## Segmentación de Clientes - Dashboard
+
+
+<table>
+  <tr>
+<td><img src="https://github.com/user-attachments/assets/5e41fe42-880c-44df-ac9b-daa093a67e1a" alt="Custom_seg" width="775"/></td>
+  </tr>
+</table>
+
+**Descripción:**
 ## Presupuesto Personal - Dashboard
 
 <table>
