@@ -78,6 +78,9 @@ El dashboard de Netflix Titles proporciona una exploración detallada del datase
 </table>
 
 **Descripción:**
+Este dashboard de Segmentación de Clientes permite analizar y clasificar a los clientes en diferentes segmentos basados en clasificación RFM. Aplica filtros simples y funciona como una versión piloto para desarrollos futuros.
+
+
 ## Presupuesto Personal - Dashboard
 
 <table>
