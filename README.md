@@ -5,10 +5,10 @@
 ## Tabla de Contenidos
 
 1. [Predicción de Vencimiento de Facturas - Modelo de Machine Learning](#predicción-de-vencimiento-de-facturas---modelo-de-machine-learning)
-2. [Segmentación de Clientes - Dashboard](#Estrategia-de-Segmentación---dashboard)
+2. [Segmentación de Clientes - Dashboard](#segmentación-de-clientes---dashboard)
 3. [Netflix Titles - Dashboard](#netflix-titles---dashboard)
 4. [Presupuesto Personal - Dashboard](#presupuesto-personal---dashboard)
-5. [Dizteku - Dashboard](#netzuk---dashboard)
+5. [Dizteku - Dashboard](#Dizteku---dashboard)
 
 ---
 
